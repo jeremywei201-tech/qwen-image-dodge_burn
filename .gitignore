@@ -1,0 +1,14 @@
+
+*.tar
+*.tar.gz
+*.bin
+*.pth
+*.pt
+*.safetensors
+
+__pycache__/
+.cache/
+.ipynb_checkpoints/
+
+logs/
+output/
